@@ -36,3 +36,5 @@ This project is a virtual therapy chatbot that:
 - **Flask (Python)** – For the backend and emotion detection API.
 - **MediaPipe / OpenCV** – For real-time webcam emotion detection.
 - **Web Speech API** – For voice output (speech synthesis).
+
+[Link Text](http://127.0.0.1:5500/)
