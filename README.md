@@ -1,6 +1,6 @@
 # TheraTech -Your emotional-wellness-buddy💬🙂
 
-Welcome to the Emotion-Based Therapy Chatbot! This is a fun and beginner-friendly web project that detects your emotions and gives you a supportive conversation based on how you're feeling.
+Welcome to the Emotion-Based Therapy Chatbot! This is a fun and project that detects your emotions and gives you a supportive conversation based on how you're feeling.
 
 ## 🌟 What This Project Does
 
