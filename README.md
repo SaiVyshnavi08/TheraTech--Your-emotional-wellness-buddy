@@ -31,7 +31,7 @@ This project is a virtual therapy chatbot that:
 
 ## 🧠 Technologies Used
 
-- **HTML, CSS, Tailwind CSS** – For building the front end and styling.
+- **HTML, CSS,** – For building the front end and styling.
 - **JavaScript** – For interactivity and emotion-based logic.
 - **Flask (Python)** – For the backend and emotion detection API.
 - **MediaPipe / OpenCV** – For real-time webcam emotion detection.
